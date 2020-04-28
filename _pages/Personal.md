@@ -10,4 +10,4 @@ class: wide
  # overlay_image: ../images/Research_splash.jpg
 ---
 
- [Personal](../images/Pel.pdf)
+I love running. [Personal](../images/Pel.pdf)
