@@ -15,8 +15,9 @@ class: wide
 
 "Introduction of Greek Yogurt and Its Market Impacts on U.S. Yogurt Industry" With Philip G. Gayle
 
-"Strawberry or Plain Yogurt? Product Line Expansions and Manufacturer’s Bargaining Power With Philip G. Gayle
+"Strawberry or Plain Yogurt? Product Line Expansions and Manufacturer’s Bargaining Power" With Philip G. Gayle
 
 
 ### Work in Progress
 
+"Labor Force Participation of Immigrant Women in the U.S.: Is there a cohort difference?"
