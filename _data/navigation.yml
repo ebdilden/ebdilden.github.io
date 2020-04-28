@@ -9,8 +9,9 @@ main:
   - title: "CV"
     url: https://ebdilden.github.io/images/ElifDilden_CV_Nov19.pdf
     
-   - title:Personal
-    url: https://ebdilden.github.io/_pages/Personal/
+  - title: Personal
+    url: https://ebdilden.github.io/_pages/personal/
+
     
  
  # - title: "Sample Posts"
