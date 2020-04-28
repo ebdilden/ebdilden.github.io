@@ -11,7 +11,7 @@ class: wide
 ---
 
 
-### Primary Instructor, Department of Economics, Kansas State University                                     Fall 2017, present
+### Primary Instructor, Department of Economics, Kansas State University (Fall 2017, present)
 
 ECON 120 Principles of Microeconomics (FYS*- Fall 2017, Spring 2019)
 
@@ -24,7 +24,7 @@ ECON 540 Managerial Economics (online) (Summer 2019)
 Note: First-Year Seminar Section*
 
 
-### Teaching Assistant, Department of Economics, Kansas State University                                     Spring 2015, Fall 2017
+### Teaching Assistant, Department of Economics, Kansas State University (Spring 2015, Fall 2017)
 
 Principles of Microeconomics, Principles of Macroeconomics, Intermediate Macroeconomics, 
 Intermediate Microeconomics, International Economics, Labor Economics, Managerial Economics,
