@@ -8,4 +8,4 @@ class: wide
 
 ---
 
-I love running. [Personal](../images/pel.pdf)
+I love running.
