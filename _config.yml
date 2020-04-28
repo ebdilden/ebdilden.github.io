@@ -57,9 +57,9 @@ analytics:
 # Site Author
 author:
   name             : "Contact"
-  avatar           : #"images/Professional_HeadShot.jpg"
+  avatar           : "images/photo.jpg"
   bio              : " " #nothing here  
-  location         : #"University of Oregon"
+  location         : "Kansas State University"
   email            : ebdilden@ksu.edu 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
