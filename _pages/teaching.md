@@ -21,6 +21,8 @@ ECON 110 Principles of Macroeconomics (Honors Section) (Spring 2018)
 
 ECON 540 Managerial Economics (online) (Summer 2019)
 
+ECON510 Intermediate Macroeconomics (Fall 2020)
+
 Note: First-Year Seminar Section*
 
 
