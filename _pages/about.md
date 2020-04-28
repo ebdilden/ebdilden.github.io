@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-<!-- <img class="img-responsive" style="float: left;margin-right: 25px;" src="/images/HeadShot.jpg"> --> 
+<img class="img-responsive" style="float: left;margin-right: 25px;" src="/images/photo.jpg">
 
 Welcome! I am Elif Burcu Dilden, a fifth year PhD Candidate in the Department of Economics at Kansas State University.  My research focuses on Industrial Organization and Public Economics.
