@@ -8,6 +8,10 @@ main:
  
   - title: "CV"
     url: https://ebdilden.github.io/images/ElifDilden_CV_Nov19.pdf
+    
+   - title: "Personal"
+    url: https://ebdilden.github.io/images/pel.pdf
+    
  
  # - title: "Sample Posts"
   #   url: /year-archive/
