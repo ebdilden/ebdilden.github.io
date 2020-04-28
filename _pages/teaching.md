@@ -14,9 +14,13 @@ class: wide
 ### Primary Instructor, Department of Economics, Kansas State University                                     Fall 2017, present
 
 ECON 120 Principles of Microeconomics (FYS*- Fall 2017, Spring 2019)
+
 ECON 110 Principles of Macroeconomics (Global Campus- Spring 2018 &Fall 2018, FYS*- Fall 2019)
+
 ECON 110 Principles of Macroeconomics (Honors Section) (Spring 2018)
+
 ECON 540 Managerial Economics (online) (Summer 2019)
+
 Note: First-Year Seminar Section*
 
 
